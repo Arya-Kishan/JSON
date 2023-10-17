@@ -1,0 +1,656 @@
+{
+    "status": "ok",
+    "totalResults": 25659,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Nepal: Teachers strike over education reform shuts down schools",
+            "description": "Scores of people march in Kathmandu as a protest over education reforms enter its third day.",
+            "url": "https://www.bbc.co.uk/news/world-asia-66886528",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/117DA/production/_131224617_162a4e466f14cd354c8bdc0d7e37871ff725e3770_0_6000_42551000x709.jpg",
+            "publishedAt": "2023-09-22T10:23:29Z",
+            "content": "A massive teachers' strike in Nepal has entered its third day, disrupting classes for millions of students across all public schools.\r\nAbout 110,000 teachers are protesting an education reform bill i… [+3266 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Mack DeGeurin",
+            "title": "School Surveillance Tools Are Harming Kids and Making It More Difficult to Finish Homework, Report Finds",
+            "description": "The pandemic-era shift to remote learning sparked an acceleration of an already growing trend: education technology companies jockeying to sell schools on systems for monitoring students and filtering their internet browsing. Though school administrators will…",
+            "url": "https://gizmodo.com/school-surveillance-harm-kids-homework-report-1850854919",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/40ac37b8e9ad66e1dd71c2cbd86269bc.jpg",
+            "publishedAt": "2023-09-23T12:00:00Z",
+            "content": "The pandemic-era shift to remote learning sparked an acceleration of an already growing trend: education technology companies jockeying to sell schools on systems for monitoring students and filterin… [+5054 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Kris Holt",
+            "title": "LinkedIn adds accessibility features with the help of Microsoft’s Immersive Reader",
+            "description": "LinkedIn\r\n is making its platform more accessible by integrating Microsoft’s Immersive Reader\r\n. The service says that, in honor of Dyslexia Awareness Month and National Disability Employment Awareness Month, it's providing users with more ways to digest arti…",
+            "url": "https://www.engadget.com/linkedin-adds-accessibility-features-with-the-help-of-microsofts-immersive-reader-170923659.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/J2wsye_j1G2t8FTJSTPaqw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/10577280-5c8b-11ee-bbfd-7d8104dc6f1c",
+            "publishedAt": "2023-09-26T17:09:23Z",
+            "content": "LinkedIn\r\n is making its platform more accessible by integrating Microsofts Immersive Reader\r\n. The service says that, in honor of Dyslexia Awareness Month and National Disability Employment Awarenes… [+1441 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "BBC show is a 'lifeline' for Afghan girls, UN says",
+            "description": "Girls barred from the classroom by the Taliban government are using a BBC programme to learn in secret.",
+            "url": "https://www.bbc.co.uk/news/world-asia-67017945",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D22D/production/_131350835_a718ae62-c94c-4a36-b656-d4ada5f8ca5d.jpg",
+            "publishedAt": "2023-10-13T23:03:00Z",
+            "content": "A BBC programme for children barred from schools in Afghanistan has been described as a \"learning lifeline\" by the United Nations.\r\nThe show is being used in secret school lessons, the BBC has learne… [+4745 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ayelet Sheffey",
+            "title": "Student-loan borrowers are facing 'excessively long' wait times for help from their servicers, Biden's Education Secretary says — and it'll take more money from Congress to fix it",
+            "description": "\"We recognize there's bottlenecking in some places,\" Education Sec. Miguel Cardona told Insider on the return to student-loan repayment.",
+            "url": "https://www.businessinsider.com/student-loan-borrowers-cant-reach-customer-service-repayment-miguel-cardona-2023-10",
+            "urlToImage": "https://i.insider.com/651d7df42ce014759e748720?width=1200&format=jpeg",
+            "publishedAt": "2023-10-04T15:52:10Z",
+            "content": "U.S. President Joe Biden, joined by Education Secretary Miguel Cardona, speaks on student loan debt in the Roosevelt Room of the White House August 24, 2022 in Washington, DC. Alex Wong/Getty Images\r… [+3890 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Neha Mukherjee",
+            "title": "Meet the Next Generation of Doctors—and Their Surgical Robots",
+            "description": "Don't worry, your next surgeon will definitely be a human. But just as medical students are training to use a scalpel, they're also training to use robots designed to make surgeries easier.",
+            "url": "https://www.wired.com/story/next-generation-doctors-surgical-robots/",
+            "urlToImage": "https://media.wired.com/photos/651f2d9f64c7733b7f681115/191:100/w_1280,c_limit/Meet-the-Next-Generation-of-Surgeons,-and-the-Robots-They%E2%80%99ll-Use-W30.jpg",
+            "publishedAt": "2023-10-06T14:49:00Z",
+            "content": "While there is currently no single standardized curriculum for using the surgical robot, students generally practice on simulators, work as bedside assists for around 10 cases, and then transition to… [+3562 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Kris Holt",
+            "title": "Adobe brings more generative AI features to Express",
+            "description": "Few tech companies have embraced generative AI as wholeheartedly as Adobe. At Adobe Max, its annual creativity conference, it unveiled a new version of the Firefly GAI model\r\n. Not only that, the company announced more GAI features for Adobe Express, just wee…",
+            "url": "https://www.engadget.com/adobe-brings-more-generative-ai-features-to-express-160018288.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/0hk6PmfC089D3Q.oORiCXw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-10/8db79720-6783-11ee-bbf5-b76bf231e50c",
+            "publishedAt": "2023-10-10T16:00:18Z",
+            "content": "Few tech companies have embraced generative AI as wholeheartedly as Adobe. At Adobe Max, its annual creativity conference, it unveiled a new version of the Firefly GAI model\r\n. Not only that, the com… [+1627 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ayelet Sheffey",
+            "title": "Student-loan borrowers aren't waiting for payments to resume to start paying off their debt",
+            "description": "Student-loan borrowers have been repaying their debt before payments resume in October. The Education Department received over $1 billion when the payment pause ended.",
+            "url": "https://www.businessinsider.com/borrowers-repaying-student-loan-debt-before-payments-resume-2023-9",
+            "urlToImage": "https://i.insider.com/6508b972bf943d00195b1189?width=1200&format=jpeg",
+            "publishedAt": "2023-09-19T17:58:09Z",
+            "content": "Getty Images\r\n<ul><li>The Treasury recorded a $1 billion cash flow into the Education Department on September 1.</li><li>That was the first day interest started accruing again on borrowers' balances.… [+3331 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Katherine Tangalakis-Lippert",
+            "title": "Ukrainian children as young as 4 months old are being forcibly taken to Russia. Officials don't know what is happening to them.",
+            "description": "Reports from international watchdogs indicate that once in Russia, Ukrainian children taken from their families are forced into \"re-education\" camps.",
+            "url": "https://www.businessinsider.com/ukrainian-children-missing-forcibly-taken-russia-invading-soldiers-war-cime-2023-9",
+            "urlToImage": "https://i.insider.com/6512053a82a83a00194b6f8b?width=1200&format=jpeg",
+            "publishedAt": "2023-09-26T01:43:59Z",
+            "content": "A young girl cries as a man says goodbye to his daughter at the railway station in Lviv, Ukraine.Alexey Furman/Getty Images\r\n<ul>\n<li>Thousands of Ukrainian kids, including infants, have been forcibl… [+5116 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Sponsor Post",
+            "title": "The marriage of sports and technology can help narrow the gender gap",
+            "description": "A recent event hosted by Tata Communications with Formula 1 showcased how women and girls are pursuing education and careers in STEM fields.",
+            "url": "https://www.businessinsider.com/sc/gender-equality-and-community-at-forefront-in-formula-1",
+            "urlToImage": "https://i.insider.com/6512dc3951acc80019f0c321?width=1200&format=jpeg",
+            "publishedAt": "2023-09-26T13:45:01Z",
+            "content": "STEM students with Rosanna Tennant, broadcast journalist and presenter on F1TV, and Ruth Buscombe of the Alfa Romeo F1 teamTata Communications\r\n<ul>\n<li>Initiatives to boost access for girls and wome… [+7153 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ayelet Sheffey",
+            "title": "Student-loan payments are resuming the same day the government could shut down. Here's what that means for borrowers.",
+            "description": "Congress has 13 days to fund the government. If not, the Education Department will shut down the same day student-loan payments resume.",
+            "url": "https://www.businessinsider.com/how-will-government-shutdown-affect-student-loan-payment-resumption-debt-2023-9",
+            "urlToImage": "https://i.insider.com/65089a25cd637c0019c737dd?width=1200&format=jpeg",
+            "publishedAt": "2023-09-18T19:20:47Z",
+            "content": "U.S. President Joe Biden.Anna Rose Layden/Getty Images\r\n<ul>\n<li>The federal government could shut down after September 30 if lawmakers don't agree on a solution.</li>\n<li>A shutdown would coincide w… [+4041 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ayelet Sheffey",
+            "title": "Student-loan borrowers who weren't in the last round of debt cancellation can still count on relief if they 'did their end of the bargain,' Biden's Education Secretary says",
+            "description": "Education Sec. Miguel Cardona told Insider that student-loan borrowers who have made the required payments should \"get the relief that they earned.\"",
+            "url": "https://www.businessinsider.com/who-qualifies-student-loan-forgiveness-debt-relief-miguel-cardona-education-2023-10",
+            "urlToImage": "https://i.insider.com/618eb2740e5c2f00190687af?width=1200&format=jpeg",
+            "publishedAt": "2023-10-04T14:52:49Z",
+            "content": "Education Sec. Miguel Cardona.GREG NASH/POOL/AFP via Getty Images\r\n<ul><li>The Education Department announced $9 billion in debt relief for 125,000 student-loan borrowers this week.</li><li>Sec. Migu… [+3269 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ayelet Sheffey",
+            "title": "Biden's Education Department is taking the next step to get broad student-loan forgiveness to millions of borrowers. Here's what you need to know.",
+            "description": "The Education Department announced it's moving forward with the process to determine what the next broad student-debt relief proposal will look like.",
+            "url": "https://www.businessinsider.com/broad-student-loan-forgiveness-status-biden-next-step-debt-relief-2023-9",
+            "urlToImage": "https://i.insider.com/6516fd0cf5d0bb0019e5b9c0?width=1200&format=jpeg",
+            "publishedAt": "2023-09-29T17:50:50Z",
+            "content": "An activist stands next to a sign as they protest in front of the Supreme Court during a rally for student debt cancellation in Washington, DC, on February 28, 2023. ANDREW CABALLERO-REYNOLDS/AFP via… [+4499 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ayelet Sheffey",
+            "title": "There's no proof that student-loan companies are prepared to bring millions of borrowers back into repayment in under 2 weeks, 2 top Republican lawmakers say",
+            "description": "Rep. Virginia Foxx and Sen. Bill Cassidy asked the GAO to investigate how the Education Department is preparing student-loan companies for repayment.",
+            "url": "https://www.businessinsider.com/student-loan-companies-not-prepared-for-debt-repayment-gao-foxx-2023-9",
+            "urlToImage": "https://i.insider.com/64e6525d912f290019a9d874?width=1200&format=jpeg",
+            "publishedAt": "2023-09-20T21:08:41Z",
+            "content": "Sen. Bill Cassidy and Rep. Virginia Foxx.Kevin Dietsch/Getty Images, Bill Clark/CQ-Roll Call, Inc via Getty Images\r\n<ul>\n<li>Rep. Virginia Foxx and Sen. Bill Cassidy asked the GAO to investigate the … [+3923 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ayelet Sheffey",
+            "title": "A government shutdown won't stop the student-loan payment restart — but an extended one could jeopardize resources for borrowers who need help",
+            "description": "Education Department officials said a government shutdown lasting more than a few weeks will pose major challenges to student-loan repayment.",
+            "url": "https://www.businessinsider.com/will-student-loan-payments-resume-federal-government-shutdown-repayment-resources-2023-9",
+            "urlToImage": "https://i.insider.com/6516e44db4518a00191e6aad?width=1200&format=jpeg",
+            "publishedAt": "2023-09-29T15:36:22Z",
+            "content": "Caution tape blows in the wind on the east front plaza of the U.S. Capitol Building on September 27, 2023 in Washington, DC. Anna Moneymaker/Getty Images\r\n<ul><li>The government will shut down after … [+3123 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ayelet Sheffey",
+            "title": "It doesn't look like broad student-loan forgiveness will happen under Biden's new debt relief plan",
+            "description": "While the Education Department said some student-loan borrowers could see all their debt wiped out in the new relief, it won't happen for everyone.",
+            "url": "https://www.businessinsider.com/broad-student-loan-forgiveness-who-is-included-new-debt-relief-2023-10",
+            "urlToImage": "https://i.insider.com/6344358187b7ea001851d177?width=1200&format=jpeg",
+            "publishedAt": "2023-10-11T20:27:25Z",
+            "content": "A view of the US Capitol before a news conference to discuss student-debt cancellation on September 29, 2022.Drew Angerer/Getty Images\r\n<ul>\n<li>The first round of negotiations for Biden's new studen… [+5181 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ayelet Sheffey",
+            "title": "The 5 groups of student-loan borrowers Biden is targeting for his new broad debt cancellation plan",
+            "description": "The Education Department is taking the next step to implement broad student-debt relief, and it identified specific borrowers it plans to  focus on.",
+            "url": "https://www.businessinsider.com/who-will-be-included-in-new-broad-student-loan-forgiveness-2023-10",
+            "urlToImage": "https://i.insider.com/651ae5d503971f0019320e2a?width=1200&format=jpeg",
+            "publishedAt": "2023-10-02T16:34:34Z",
+            "content": "People rally in support of the Biden administration's student debt relief plan in front of the the US Supreme Court on February 28, 2023 in Washington, DC. Drew Angerer/Getty Images\r\n<ul><li>The Educ… [+3568 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ayelet Sheffey",
+            "title": "A top education official breaks down what's next for student-loan borrowers, and how the industry's 'deep-rooted structural problems' can be fixed",
+            "description": "Insider spoke to Under Secretary of Education James Kvaal on deep problems within the student-loan industry and what relief might come for borrowers.",
+            "url": "https://www.businessinsider.com/will-there-be-more-student-loan-forgiveness-kvaal-debt-relief-2023-9",
+            "urlToImage": "https://i.insider.com/65158fa5c50dce001913402e?width=1200&format=jpeg",
+            "publishedAt": "2023-10-03T10:00:01Z",
+            "content": "Under Secretary of Education James Kvaal.Ricky Carioti/The Washington Post via Getty Images\r\n\n<ul>\n<li>James Kvaal knew the student-loan industry had problems when he started as Under Secretary of Ed… [+5629 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Madison Hoff",
+            "title": "A childcare center founder explains what she learned after 3 decades and why it's so hard to make the business work",
+            "description": "Julie Clark talked to Insider about problems in early-childhood education and childcare, and why it's time for the government to step up.",
+            "url": "https://www.businessinsider.com/day-care-preschool-childcare-provider-cost-centers-closing-selling-2023-10",
+            "urlToImage": "https://i.insider.com/65299c0355f52b01b35f80d9?width=1200&format=jpeg",
+            "publishedAt": "2023-10-15T10:18:01Z",
+            "content": "Julie Clark.Courtesy of Julie Clark\r\n<ul>\n<li>After three decades, Julie Clark recently sold CAST Preschool and Childcare Center in Connecticut.</li>\n<li>She talked to Insider about the cost of early… [+5718 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "South Africa: Ninety schoolchildren given 'cannabis muffins'",
+            "description": "Teachers called an ambulance after noticing \"strange behaviour\" from pupils in class.",
+            "url": "https://www.bbc.co.uk/news/world-africa-66881005",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C4F6/production/_131222405_georgemukharihospital.jpg",
+            "publishedAt": "2023-09-21T19:57:52Z",
+            "content": "Around ninety primary schoolchildren in South Africa were sent to hospital after eating muffins thought to be laced with cannabis.\r\nOfficials said the pupils bought the muffins from a street vendor o… [+1372 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lifehacker.com"
+            },
+            "author": "Meredith Dietz",
+            "title": "You Can ‘Unionize’ Your Debt",
+            "description": "When facing what feels like a crushing amount of debt, you may be tempted to resign yourself to feeling hopeless and alone. This is understandable, given how society tends to treat debt like a personal problem—your mistake, your job to deal with the consequen…",
+            "url": "https://lifehacker.com/how-and-when-to-join-debtors-union-1850895018",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/68e76d9618960c9f1c0b6bcc0e2a5b05.jpg",
+            "publishedAt": "2023-10-03T16:30:00Z",
+            "content": "When facing what feels like a crushing amount of debt, you may be tempted to resign yourself to feeling hopeless and alone. This is understandable, given how society tends to treat debt like a person… [+5121 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lifehacker.com"
+            },
+            "author": "Emily Long",
+            "title": "The FAFSA Will Be Delayed This Year",
+            "description": "If you’re looking to get a jump on your student loan application for next year, you’re going to have to wait: The Free Application for Federal Student Aid (FAFSA) won’t open until sometime in December. Since 2016, the FAFSA for the upcoming academic year has …",
+            "url": "https://lifehacker.com/the-fafsa-will-be-delayed-this-year-1850895008",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e1ab6895fbc81f044a82fcd086388e5a.jpg",
+            "publishedAt": "2023-10-03T17:30:00Z",
+            "content": "If youre looking to get a jump on your student loan application for next year, youre going to have to wait: The Free Application for Federal Student Aid (FAFSA) wont open until sometime in December. … [+2334 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Kristin Wright",
+            "title": "A federal appeals court blocks a grant program for Black female entrepreneurs",
+            "description": "The suit was brought by Edward Blum, the man behind the case against Harvard College that led to the Supreme Court dismantling affirmative action in higher education in June.",
+            "url": "https://www.npr.org/2023/10/03/1203221945/affirmative-action-black-female-entrepreneurs",
+            "urlToImage": "https://media.npr.org/assets/img/2023/10/03/gettyimages-1437982049_wide-77cd122e3dc3e060ac008f81b3c6f240f14c3804-s1400-c100.jpg",
+            "publishedAt": "2023-10-03T14:54:28Z",
+            "content": "Edward Blum, a longtime opponent of affirmative action and founder of the American Alliance for Equal Rights, at the U.S. Supreme Court last year. The U.S. Circuit Court of Appeals in Atlanta ruled i… [+3501 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Jonathan Franklin",
+            "title": "A Black Texas student suspended for his hairstyle is shifted to an alternative school",
+            "description": "Darryl George, a junior at Barbers Hill High School, who was suspended for wearing a natural hairstyle, will be placed in a disciplinary alternative education program through Nov. 29.",
+            "url": "https://www.npr.org/2023/10/12/1205502505/black-student-crown-act-texas-hairstyles-alternative-school",
+            "urlToImage": "https://media.npr.org/assets/img/2023/10/12/ap23284812955060_wide-118f793c07ab7bc9ba7d2facded0f2bd46135154-s1400-c100.jpg",
+            "publishedAt": "2023-10-12T20:59:06Z",
+            "content": "Darryl George will be sent to an alternative school program, from Oct. 12 through Nov. 29 for \"failure to comply\" with multiple campus and classroom regulations, the Barbers Hill High School principa… [+3324 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "Kiara Alfonseca",
+            "title": "Overhaul of K-12 schooling becomes a flashpoint in Ohio",
+            "description": "Ohio's K-12 education system has become the center of a legal battle between lawmakers and members of the State Board of Education.",
+            "url": "https://abcnews.go.com/US/overhaul-12-education-center-lawsuit-ohio/story?id=103655330",
+            "urlToImage": "https://i.abcnewsfe.com/a/a484d883-d163-4253-ba4d-58594dff4d9a/dewine-ap-er-231002_1696265475141_hpMain_16x9.jpg?w=992",
+            "publishedAt": "2023-10-03T18:57:32Z",
+            "content": "Ohio's K-12 education system has become the center of a legal battle between lawmakers and members of the State Board of Education.\r\nOhio Gov. Mike DeWine passed HB 33 in July as part of the state's … [+3824 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Polly Thompson",
+            "title": "Otis and Jean's 'Sex Education' house could now be yours for $1.8 million — take a look inside",
+            "description": "The $1.8 million property offers stunning views of the Wye Valley, which sits on the England-Wales border.",
+            "url": "https://www.businessinsider.com/look-inside-sex-education-house-up-for-sale-otis-jean-2023-10",
+            "urlToImage": "https://i.insider.com/651d820142ecf94db477ab67?width=1200&format=jpeg",
+            "publishedAt": "2023-10-08T20:52:44Z",
+            "content": "nullKnight Frank\r\n<ul><li>A house made famous by the hit Netflix show \"Sex Education\" has gone on the market. </li><li>The $1.8 million property offers views of the Wye Valley, which sits on the Engl… [+3014 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hubspot.com"
+            },
+            "author": "Holly Stayton",
+            "title": "12 Higher Education Marketing Trends of 2023",
+            "description": "Higher education must evolve, innovate, and leverage new marketing strategies to engage students. Here are the top trends of 2023 to do just that.",
+            "url": "https://blog.hubspot.com/marketing/creating-thoughtful-content-strategy-higher-education-marketing#article",
+            "urlToImage": "https://blog.hubspot.com/hubfs/Higher%20Education%20Marketing%20Trends.png#keepProtocol",
+            "publishedAt": "2023-09-29T11:00:00Z",
+            "content": "Marketing trends come and go at a rapid speed, and higher education isn't immune to these shifts.\r\nEspecially at a time when college enrollment is down, higher education institutions must evolve, inn… [+8211 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slate Magazine"
+            },
+            "author": "Max Felker-Kantor",
+            "title": "The Kids Who Snitched on Their Families Because DARE Told Them To",
+            "description": "The program was about education. But it was also about surveillance.",
+            "url": "https://slate.com/human-interest/2023/09/dare-history-police-surveillance-schools.html",
+            "urlToImage": "https://compote.slate.com/images/9f112959-b4e8-4482-a6ef-078d2d5058bf.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+            "publishedAt": "2023-09-30T14:00:00Z",
+            "content": "When 11-year-old Crystal Grendell was called into the counselors office at her Searsport, Maine, elementary school in April 1991, she likely did not expect to be asked if her parents used drugs. Afte… [+13307 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Emma Bentley",
+            "title": "How Spark Admissions Became One of the Nation’s Best College Admissions Consulting Firms",
+            "description": "The United States is at a crossroads when it comes to higher education. The cost of college is skyrocketing, and […]\nThe post How Spark Admissions Became One of the Nation’s Best College Admissions Consulting Firms appeared first on ReadWrite.",
+            "url": "https://readwrite.com/spark-admissions-college-admissions/",
+            "urlToImage": "https://readwrite.com/wp-content/uploads/2023/09/Spark-Admissions.jpg",
+            "publishedAt": "2023-09-19T18:55:09Z",
+            "content": "The United States is at a crossroads when it comes to higher education. The cost of college is skyrocketing, and legislation for relief remains mired in a divided political landscape. Simultaneously,… [+6533 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "WIRED Staff",
+            "title": "Alexa Just Got an AI Makeover",
+            "description": "This week, we learn how Amazon is teaching Alexa more skills to help it better compete in a landscape lousy with chatbots.",
+            "url": "https://www.wired.com/story/gadget-lab-podcast-613/",
+            "urlToImage": "https://media.wired.com/photos/650b2013e7064017729bb50c/191:100/w_1280,c_limit/Echo-Show-8-Lifestyle-Gear.jpg",
+            "publishedAt": "2023-09-21T12:00:00Z",
+            "content": "Alexa was due for an upgrade, and now it has gotten one. This week, Amazon held its annual media event where it debuted a slate of new hardware, software, and services. The company reserved the spot … [+1956 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jess Weatherbed",
+            "title": "The Surface Go 4 comes with a much-needed performance boost",
+            "description": "Microsoft has unveiled the Surface Go 4, which features some minor performance upgrades over its predecessor thanks to its new Intel N200 CPU and higher 8GB base RAM configuration.",
+            "url": "https://www.theverge.com/2023/9/21/23880536/microsoft-surface-go-4-convertible-price-release-date",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/QksUFpNGRGj3frfuh7tH_rpgA6c=/0x0:1000x563/1200x628/filters:focal(500x282:501x283)/cdn.vox-cdn.com/uploads/chorus_asset/file/24940430/surface_go_4_for_business_image_1_web.png",
+            "publishedAt": "2023-09-21T15:30:30Z",
+            "content": "The Surface Go 4 comes with a much-needed performance boost\r\nThe Surface Go 4 comes with a much-needed performance boost\r\n / Featuring a beefier processor and a near-identical design to its predecess… [+2448 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Joe Rossignol",
+            "title": "Apple's Back to School Promotion Ends Soon: Here's What You Can Get",
+            "description": "In June, Apple launched its annual Back to School promotion in the U.S. for college students. This year's promotion offers students a free Apple gift card with the purchase of an eligible Mac or iPad from Apple, along with 20% off AppleCare+ plans.\n\n\n\n\n\nIn th…",
+            "url": "https://www.macrumors.com/2023/09/26/apples-back-to-school-2023-promotion-ends-soon/",
+            "urlToImage": "https://images.macrumors.com/t/uMHf-9WyB74WTL6stE4wxkYcPUs=/2178x/article-new/2022/06/2022-back-to-school-apple-feature.jpg",
+            "publishedAt": "2023-09-26T12:38:55Z",
+            "content": "In June, Apple launched its annual Back to School promotion in the U.S. for college students. This year's promotion offers students a free Apple gift card with the purchase of an eligible Mac or iPad… [+976 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Afghans in UK visa limbo as Pakistan vows to expel migrants",
+            "description": "Afghans who worked with the UK are living in fear in Pakistan as it cracks down on migrants without visas.",
+            "url": "https://www.bbc.co.uk/news/world-asia-67020994",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/165FD/production/_131354619_kidsstudying.jpg",
+            "publishedAt": "2023-10-13T04:17:45Z",
+            "content": "Hundreds of Afghans who risked their lives to work with the UK in Afghanistan and fled the Taliban are now stuck in neighbouring Pakistan as they wait to be relocated to the UK. \r\nSome have told the … [+9004 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Atlantic"
+            },
+            "author": "Conor Friedersdorf",
+            "title": "The Worst DEI Policy in Higher Education",
+            "description": "At stake: the First Amendment rights and academic freedom of 61,000 professors who teach 1.9 million students",
+            "url": "https://www.theatlantic.com/ideas/archive/2023/10/dei-policy-california-community-college/675629/?utm_source=feed",
+            "urlToImage": null,
+            "publishedAt": "2023-10-13T11:00:00Z",
+            "content": "Attacks on faculty rights are frequent in academia, where professors’ words are now policed by illiberal administrators, state legislators, and students. I’ve reported on related controversies in Ame… [+22846 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Elissa Nadworny",
+            "title": "Feds offer students new protections against programs that lead to high debt, low pay",
+            "description": "The Biden administration is cracking down on for-profit college programs that don't adequately prepare graduates for gainful employment and leave them with unaffordable loans.",
+            "url": "https://www.npr.org/2023/09/28/1202291883/for-profit-colleges-student-loans-affordable",
+            "urlToImage": "https://media.npr.org/assets/img/2023/09/28/gettyimages-1367180769_wide-c4b64869e7b31ecf3c090af4dc3826efe3eeda6a-s1400-c100.jpg",
+            "publishedAt": "2023-09-28T15:38:48Z",
+            "content": "\"There is nothing valuable about being ripped off or sold on a worthless degree,\" U.S. Education Secretary Miguel Cardona said at a press briefing announcing the final rule. He is shown here in Janua… [+3899 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Jenny List",
+            "title": "Using 5V Programmable Logic Here In The 2020s",
+            "description": "Do you speak GAL? [Peterzieba] does, and has pulled together a collection of documents and tools so that you can too. There’s a dividing line in electronic engineering education, between …read more",
+            "url": "https://hackaday.com/2023/10/04/using-5v-programmable-logic-here-in-the-2020s/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2023/10/gal-featured.jpg",
+            "publishedAt": "2023-10-04T23:00:18Z",
+            "content": "Do you speak GAL? [Peterzieba] does, and has pulled together a collection of documents and tools so that you can too. There’s a dividing line in electronic engineering education, between those who we… [+955 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Bettina L. Love",
+            "title": "How School Choice Left Black Children With Scraps for Their Education",
+            "description": "Black people 'are expected to be America’s moral conscience—and we are unceremoniously punished for it,' writes Dr. Bettina L. Love.",
+            "url": "https://time.com/6322715/school-choice-black-children-essay/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2023/10/black-child-school.jpg?quality=85",
+            "publishedAt": "2023-10-13T11:00:00Z",
+            "content": "To understand why Black children only get the scraps of school choice, we need to interrogate what the phrase school choicehas meant in the years between the Brown vs. Board of Educationruling in 195… [+7019 chars]"
+        },
+        {
+            "source": {
+                "id": "time",
+                "name": "Time"
+            },
+            "author": "Laura Zornosa",
+            "title": "The Final Season of Netflix’s Sex Education Sends Off a Beloved Cast In Style",
+            "description": "The costumer designer for the hit British teen dramedy talks to TIME about styling the iconic characters for the fourth and final season.",
+            "url": "https://time.com/6316538/sex-education-season-4-finale/",
+            "urlToImage": "https://api.time.com/wp-content/uploads/2023/09/SE_402_Unit_00487_RT.jpg?quality=85",
+            "publishedAt": "2023-09-21T22:10:58Z",
+            "content": "Sex Education, the hit British teen dramedy, returned to Netflix on Thursday with its fourth and final season, bringing the students of Moordale Secondary School to a whole new place, literally. In S… [+8289 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ayelet Sheffey",
+            "title": "Student-loan borrowers have a new safeguard in place to ensure their debt doesn't pile up once they graduate",
+            "description": "Biden released the final gainful employment rule, which will ensure student-loan borrowers have the means to pay off their debt after graduating.",
+            "url": "https://www.businessinsider.com/what-is-new-gainful-employment-rule-student-loan-debt-relief-2023-9",
+            "urlToImage": "https://i.insider.com/64a2cf849fab2b00184aec85?width=1200&format=jpeg",
+            "publishedAt": "2023-09-27T22:04:16Z",
+            "content": "U.S. President Joe Biden is joined by Education Secretary Miguel Cardona (L).Chip Somodevilla/Getty Images\r\n<ul>\n<li>The Education Department released its final version of the gainful employment rule… [+4597 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Boing Boing"
+            },
+            "author": "Jason Weisberger",
+            "title": "MAGA hat-wearing philosopher ponders the correlation between education and liberalism",
+            "description": "Let us start by assuming this red-shirted red hat knows a statistically significant sample of college-educated folks, and move on to the \"Buddy, you just answered your own question!\" portion of bemusement. \n\n\n\n\nTrump Supporter: \"How come everyone who goes to …",
+            "url": "https://boingboing.net/2023/10/06/maga-hat-wearing-philosopher-ponders-the-correlation-between-education-and-liberalism.html",
+            "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2023/08/maga.jpeg?fit=1200%2C801&ssl=1",
+            "publishedAt": "2023-10-06T16:58:55Z",
+            "content": "Let us start by assuming this red-shirted red hat knows a statistically significant sample of college-educated folks, and move on to the \"Buddy, you just answered your own question!\" portion of bemus… [+583 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Tom Carter",
+            "title": "Flexport's former CEO — who announced a sudden, shock departure — has removed the company from his LinkedIn résumé and moved it to the education section",
+            "description": "Former Flexport CEO Dave Clark has removed the startup from his LinkedIn job history, in an apparent jibe at the company following his shock resignation.",
+            "url": "https://www.businessinsider.com/dave-clark-removes-flexport-from-linkedin-job-history-after-resignation-2023-9",
+            "urlToImage": "https://i.insider.com/650ad3ce12dc4f001a1711f7?width=1200&format=jpeg",
+            "publishedAt": "2023-09-20T11:46:00Z",
+            "content": "Former Amazon executive Dave Clark resigned as Flexport CEO earlier this monthAP Photo/Ted S. Warren\r\n<ul><li>Flexport's ex-boss Dave Clark moved his time at the company from \"experience\" to \"educati… [+2939 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Andy Greenberg",
+            "title": "Chinese Spies Infected Dozens of Networks With Thumb Drive Malware",
+            "description": "Security researchers found USB-based Sogu espionage malware spreading within African operations of European and US firms.",
+            "url": "https://www.wired.com/story/china-usb-sogu-malware/",
+            "urlToImage": "https://media.wired.com/photos/6508e45f4b9c5a8087ad04b4/191:100/w_1280,c_limit/Chinese-Spies-Infected-Dozens-of-Networks-With-Thumb-Drive-Malware-Security-GettyImages-200526759-001.jpg",
+            "publishedAt": "2023-09-19T14:00:00Z",
+            "content": "For much of the cybersecurity industry, malware spread via USB drives represents the quaint hacker threat of the past decadeor the one before that. But a group of China-backed spies appears to have f… [+3776 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ayelet Sheffey",
+            "title": "260,000 student-loan borrowers who were approved for debt relief might be pushed back into repayment anyway, a legacy advocacy group says",
+            "description": "A judge approved a settlement last year that gave 260,000 student-loan borrowers debt relief. Advocates worry MOHELA is not handling it properly.",
+            "url": "https://www.businessinsider.com/student-loan-company-mohela-violating-debt-relief-settlement-cardona-biden-2023-9",
+            "urlToImage": "https://i.insider.com/60b8ee1902ac410018f94099?width=1200&format=jpeg",
+            "publishedAt": "2023-09-23T11:58:01Z",
+            "content": "Shutterstock\r\n<ul>\n<li>Student-loan borrowers who were part of a 2022 settlement are still waiting for their relief to be processed.</li>\n<li>A legal advocacy group said a student-loan company is not… [+4652 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Substack.com"
+            },
+            "author": "Dan Meyer",
+            "title": "The Misunderstanding About Education That Cost Mark Zuckerberg $100M",
+            "description": "Personalized learning can feel isolating. Whole class learning can feel personal. This is hard to understand.",
+            "url": "https://danmeyer.substack.com/p/the-misunderstanding-about-education",
+            "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa56f5b79-a09c-4768-b1ac-8475074506fc_1600x800.png",
+            "publishedAt": "2023-10-12T21:48:32Z",
+            "content": "Last week, Matt Barnum reported in Chalkbeat that the Chan Zuckerberg Initiative is laying off dozens of staff members and pivoting away from the personalized learning platform they have funded since… [+7359 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AppleInsider"
+            },
+            "author": "news@appleinsider.com (Amber Neely)",
+            "title": "Apple's educational outreach fostering Hispanic leadership in Houston",
+            "description": "Apple's Community Education Initiative is expanding its commitment to inclusive technology education, supporting programs like TechConnect and Houston Community College's summer camp.Image Credit: AppleIn 2019, Apple established the Community Education Initia…",
+            "url": "https://appleinsider.com/articles/23/10/04/apples-educational-outreach-fostering-hispanic-leadership-in-houston",
+            "urlToImage": "https://photos5.appleinsider.com/gallery/56653-115165-header-xl.jpg",
+            "publishedAt": "2023-10-04T13:45:18Z",
+            "content": "Image Credit: Apple\r\nApple's Community Education Initiative is expanding its commitment to inclusive technology education, supporting programs like TechConnect and Houston Community College's summer … [+2099 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ayelet Sheffey",
+            "title": "It is 'abundantly clear' student-loan payments should not resume next week if the government shuts down, Ayanna Pressley says",
+            "description": "Resuming student-loan payments the same day as a government shutdown is \"a recipe for disaster,\" Rep. Pressley says.",
+            "url": "https://www.businessinsider.com/will-student-loan-payments-resume-if-goverment-shuts-down-pressley-2023-9",
+            "urlToImage": "https://i.insider.com/651483d8eee46600193bac77?width=1200&format=jpeg",
+            "publishedAt": "2023-09-27T19:59:23Z",
+            "content": "Representative Ayanna Pressley speaks as student loan borrowers and advocates gather for the People's Rally To Cancel Student Debt During The Supreme Court Hearings On Student Debt Relief on February… [+3097 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ayelet Sheffey",
+            "title": "There's 'absolutely still a chance' student-loan borrowers will get broad debt cancellation, AOC says — but 'you can thank a Republican' for payments restarting next month",
+            "description": "Rep. Alexandria Ocasio-Cortez noted on Instagram that the Biden administration is looking at alternate paths for student-debt relief.",
+            "url": "https://www.businessinsider.com/student-loan-forgiveness-biden-debt-relief-aoc-payment-resumption-borrowers-2023-9",
+            "urlToImage": "https://i.insider.com/6509a51412dc4f001a1653fc?width=1200&format=jpeg",
+            "publishedAt": "2023-09-19T15:37:09Z",
+            "content": "Rep. Alexandria Ocasio-Cortez of New York.Drew Angerer/Getty Images\r\n<ul><li>Rep. Alexandria Ocasio-Cortez told borrowers that student-debt relief  \"is not a done deal.\"</li><li>She said there's stil… [+3587 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Ayelet Sheffey",
+            "title": "Do not make student-loan payments if you're in one of these 3 groups of borrowers",
+            "description": "Student-loan borrowers who are waiting for their debt to be discharged do not need to enter repayment, despite what their servicer says.",
+            "url": "https://www.businessinsider.com/should-i-pay-off-my-student-loan-debt-which-borrowers-2023-10",
+            "urlToImage": "https://i.insider.com/62713badfacd1e0019fbaca1?width=1200&format=jpeg",
+            "publishedAt": "2023-10-10T10:07:01Z",
+            "content": "Getty Images\r\n<ul><li>Federal student-loan borrowers are once again facing monthly bills.</li><li>But some borrowers should not be required to enter repayment.</li><li>Those include borrower defense … [+3957 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Simone Stolzoff",
+            "title": "Meet the families who are ditching America to travel abroad as digital nomads",
+            "description": "Digital nomads are uprooting their kids from American schools to enjoy a globetrotting life of private chefs and European castles.",
+            "url": "https://www.businessinsider.com/digital-nomad-families-travel-abroad-kids-school-boundless-life-2023-9",
+            "urlToImage": "https://i.insider.com/650e067ce453d50019f7ee77?width=1200&format=jpeg",
+            "publishedAt": "2023-09-28T10:00:01Z",
+            "content": "Remote work has lead to a boom in people traveling the world — and now people are taking their kids with them.Arantza Pena Popo\r\nShirly and Erez Weinstein had in many ways achieved the American dream… [+14778 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "CHEYANNE MUMPHREY AP education writer",
+            "title": "Black student suspended over his hairstyle to be sent to an alternative education program",
+            "description": "A Black student who spent more than a month on in-school suspension over his dreadlocks has been told he will be removed from his Texas high school and sent to a disciplinary alternative education program on Thursday",
+            "url": "https://abcnews.go.com/US/wireStory/black-student-suspended-hairstyle-alternative-education-program-103907816",
+            "urlToImage": "https://i.abcnewsfe.com/a/cf168c2c-2815-4f06-98fb-5108b55d80ad/wirestory_d4c682d334f52eac813d109b7499901e_16x9.jpg?w=992",
+            "publishedAt": "2023-10-12T00:10:42Z",
+            "content": "After serving more than a month of in-school suspension over his dreadlocks, a Black student in Texas was told he will be removed from his high school and sent to a disciplinary alternative education… [+2950 chars]"
+        }
+    ]
+}
